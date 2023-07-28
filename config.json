@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["94718770230","94718770230"],
+    "ownerName": "tech 4 geek bot",
+    "instagram" : "https://instagram.com/zeeoneofc",
+    "gcwa" : "https://instabio.cc/Alphabot",
+    "botName": "Haruka-Mdོ ",
+    "footer": "2023 © api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "your key",
+    "OpenAIKey": "your openai key",
+    "audio_di_bagian_menu": ".menu",
+    "auto_ai_japri": true,
+    "auto_ai_grup": true,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": true,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": false,
+    "autorespond": false,
+    "autoblok212": false,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 150
+    }
+}
